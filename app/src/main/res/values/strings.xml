@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="meet_button">Start Meeting</string>
+    <string name="start_meet">Start</string>
+    <string-array name="meet_type">
+        <item>New idea</item>
+        <item>Improvements</item>
+        <item>Proposal</item>
+    </string-array>
+
+    <string name="title_activity_meet">PUT YOUR HATS ON</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="number_of_people">Number Of people</string>
+    <string name="what_type_of_meeting">What type of meeting ?</string>
+</resources>
